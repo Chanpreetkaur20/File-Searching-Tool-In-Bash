@@ -15,6 +15,7 @@ search_file() {
                 echo "File found: $item"
             fi
         fi
+
     done
 }
 
